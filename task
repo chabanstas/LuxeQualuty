@@ -1,0 +1,3 @@
+Your task is to create a site testing plan for 5 test cases. Describe it in Excel or Word.
+Site https://www.redmine.org/
+Next, implement these tests in playwrite and raid or allure report, deploy to github.
